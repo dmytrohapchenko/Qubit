@@ -1,2 +1,2 @@
 # Qubit
-Site project
+https://dmytrohapchenko.github.io/Qubit/
